@@ -27,12 +27,15 @@ Develop an interactive Power BI dashboard to:
 
 ---
 ## Dashboard Pages
-![Executive Summary](screenshots/1.Executive%20Summary.png)
-![stock Analysis](screenshots/2.Stock%20Analysis.png)
-![Income Statements](screenshots/3.Income%20statement.png)
-![Balance Sheet](screenshots/4.Balance%20Sheet.png)
-![Cash Flow](screenshots/5.Cash%20Flow.png)
-![Peer Comparison](screenshots/6.Peer%20Comparison.png)
+![Executive Summary](Screenshots/1.Executive%20Summary.png)
+![stock Analysis](Screenshots/2.Stock%20Analysis.png)
+![Income Statements](Screenshots/3.Income%20statement.png)
+![Balance Sheet](Screenshots/4.Balance%20Sheet.png)
+![Cash Flow](Screenshots/5.Cash%20Flow.png)
+![Peer Comparison](Screenshots/6.Peer%20Comparison.png)
+
+
+### Executive Summary
 - Revenue
 - Net Profit
 - Market Cap
